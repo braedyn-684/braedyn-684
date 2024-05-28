@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm Braedyn
+Hi, I'm Braedyn, and I love learning about the weather
 
 | Rank | Languages |
 |-----:|-----------|
