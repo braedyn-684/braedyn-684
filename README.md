@@ -1,4 +1,13 @@
-## Hi there 👋
+## About me
+
+Hi, I'm Braedyn
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Matlab    |
+|     3| Javascript|
+|     4| R         |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/970067575998402560/1000387681722830958/IMG_4243.jpg?ex=665727a1&is=6655d621&hm=3f14fbbee4ceb56fe41b70443d55ad5990dadc893a8628d10c46f4e113d65cb2&=&format=webp&width=722&height=542">
