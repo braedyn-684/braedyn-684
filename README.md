@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm Braedyn, and I love learning about the weather
+Hi, I'm Braedyn, and I love learning more about weather and climate through coding and statistics
 
 | Rank | Languages |
 |-----:|-----------|
